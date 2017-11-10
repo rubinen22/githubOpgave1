@@ -10,5 +10,6 @@ public class Main {
 		Linje 6
 		Linje 7
 		Linje 8
+		Linje 9
 	}
 }
