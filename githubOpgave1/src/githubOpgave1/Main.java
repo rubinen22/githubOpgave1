@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("012254-7377");
 		Linje2
 		Linje3
+		Linje 4
 	}
 }
